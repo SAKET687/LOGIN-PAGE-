@@ -2,17 +2,18 @@ body{
     background: #7f3fff;
     text-align: center;
     font-family: sans-serif;
+    background-size:cover;
 
   }
 
 .form{
     background-color: #e0e1e2;
     width: 500px;
-    padding: 60px 40px;
+    padding: 80px 40px;
     position: relative;
-    height: 250px;
-    margin-left: 550px;
-    margin-top: 210px;
+    height: 400px;
+    margin-left: 450px;
+    margin-top: 50px;
     border-radius:8px;
     box-shadow: 20px 20px 30px rgba(0,0,0,0.15);
 
